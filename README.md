@@ -1,2 +1,2 @@
-# puntomatic
+# puntomative
 Punto de Venta desktop
