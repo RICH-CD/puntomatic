@@ -18,3 +18,4 @@ C:\Desarrollos\Automative\Puntomative\Puntomative\Puntomative\obj\Debug\net5.0-w
 C:\Desarrollos\Automative\Puntomative\Puntomative\Puntomative\obj\Debug\net5.0-windows\Puntomative.pdb
 C:\Desarrollos\Automative\Puntomative\Puntomative\Puntomative\obj\Debug\net5.0-windows\Puntomative.genruntimeconfig.cache
 C:\Desarrollos\Automative\Puntomative\Puntomative\Puntomative\obj\Debug\net5.0-windows\ref\Puntomative.dll
+C:\Desarrollos\Automative\Puntomative\Puntomative\Puntomative\obj\Debug\net5.0-windows\Puntomative.Formularios.Usuarios.Form_Usuario.resources

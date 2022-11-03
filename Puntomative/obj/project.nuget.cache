@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yMAlxqmlUc40UeMl9fw/Z2oWKJge2Vs5PDodBOJCHzWjuULblIZyfKH/fzLVzXAMUGYrSndfeElXTCK1i6+emw==",
+  "dgSpecHash": "i7Rtbpti7KQVWJTOzO4VD+OckLIpr0DBhYijORzbaUBg4l2z+kLnfjoUXhTs9bvO7fOEaTrqlgLWs4JdpDevwA==",
   "success": true,
   "projectFilePath": "C:\\Desarrollos\\Automative\\Puntomative\\Puntomative\\Puntomative\\Puntomative.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo Cardenas\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

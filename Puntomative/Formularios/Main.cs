@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Puntomative.Formularios.Usuarios;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,13 @@ namespace Puntomative
         public Main()
         {
             InitializeComponent();
+        }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form_Usuario form_Usuario = new Form_Usuario();
+            form_Usuario.Show();
+
         }
     }
 }
